@@ -1,0 +1,22 @@
+# 编译输出
+examples
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试输出
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
